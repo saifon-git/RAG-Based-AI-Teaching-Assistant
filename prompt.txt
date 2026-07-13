@@ -1,6 +1,26 @@
-I am teaching web development in my Sigma wed development course. Here are video subtitle chucks contaning video title, video number, start time in seconds, end time in seconds, the text at that time:
-[{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":319.5,"end":323.5,"text":" The box model is called Box model"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":309.5,"end":319.5,"text":" The box model is called Box model"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":135.5,"end":137.5,"text":" CSS Box Model means"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":13.0,"end":15.0,"text":" This is the concept of the box model in CSS"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":85.5,"end":87.5,"text":" And here I will write CSS Box Model"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":87.5,"end":89.5,"text":" After writing this box model"}]
----------------------------------------------
-"where is box model tought"
-user asked this question realted to the video chucks, you have to answer in a human way (dont mension the above format, its only just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrealted question, tell him that you can only answer questions realted to the course
- 
+
+I am teaching web development in my Sigma Web Development course.
+
+Here are lecture chunks:
+
+[{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":21.0,"end":22.5,"text":" is set in CSS"},{"title":"Installing VS Code & How Websites Work","number":"1","start":1504.68,"end":1508.02,"text":" Sigma Web Development course has been taught by students"},{"title":"Introduction to CSS","number":"14","start":257.58,"end":259.58,"text":" So, what is CSS?"},{"title":"Entities, Code tag and more on HTML","number":"13","start":330.16,"end":331.16,"text":" CSS is from the center"},{"title":"Introduction to CSS","number":"14","start":21.74,"end":24.34,"text":" CSS stands for Cascading Style Sheets"},{"title":"Heading, Paragraphs and Links","number":"4","start":1028.88,"end":1030.88,"text":" If you are learning from CSS styling,"}]
+
+------------------------------------------------
+
+User Question:
+
+where is starter of css has been taught?
+
+Instructions:
+
+Answer naturally.
+
+Mention:
+
+• Which lecture contains the answer
+
+• Video number
+
+• Timestamp
+
+If the question is unrelated to the course, politely tell the user you can only answer course-related questions.

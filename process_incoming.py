@@ -34,7 +34,6 @@ def inference(prompt):
     ) 
      
     response = r.json() 
-    print(response)
     return response
      
     
