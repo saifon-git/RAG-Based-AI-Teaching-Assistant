@@ -1,0 +1,2924 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " In today's video, I will tell you about the settings and paragraphs"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 3.2800000000000002,
+            "end": 6.38,
+            "text": " I will tell you about the anchor text"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 6.38,
+            "end": 9.84,
+            "text": " If you have found this course awesome, then like this video"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 9.84,
+            "end": 12.26,
+            "text": " Like and share it with your friends"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 12.26,
+            "end": 14.08,
+            "text": " In this video, we will make a small project"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 14.08,
+            "end": 15.6,
+            "text": " Which will be a bookmark website"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 15.6,
+            "end": 20.16,
+            "text": " This bookmark website will help you to get all your favorite websites"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 20.16,
+            "end": 22.06,
+            "text": " And you will be able to use it in actual use"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 22.06,
+            "end": 23.42,
+            "text": " So let's start quickly"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 23.42,
+            "end": 25.18,
+            "text": " Write it down in the comment section below"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 25.18,
+            "end": 26.42,
+            "text": " Sigma Batch OP"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 26.42,
+            "end": 27.84,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 30.0,
+            "end": 40.0,
+            "text": " So guys, as you can see, I have already made my computer screen"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 40.0,
+            "end": 44.0,
+            "text": " And if you haven't even done the playlist access yet, then you can access it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 44.0,
+            "end": 50.0,
+            "text": " The other thing I want to tell you guys is that you will go to the post-itre on www.gitab.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 50.0,
+            "end": 53.0,
+            "text": " So you will get the GITAB REAP of Sigma WebDoc course"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 53.0,
+            "end": 56.0,
+            "text": " Now I have made all the videos of it and made a fullter"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " And made a completely different filter"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " So you will get access from the source code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " So that you can get the source code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 62.0,
+            "end": 64.0,
+            "text": " In the description, I will put the video of it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " So there is no problem with the video"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " Now we will make a basic website today"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 69.0,
+            "end": 71.0,
+            "text": " But it will be very important for us"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " Because it will be our first useful website"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 73.0,
+            "end": 79.0,
+            "text": " So I will not take much time to make a new folder in Sigma WebDoc"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " And I will keep the video for it because it is our fourth video"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " So I will make a video with the name of the name"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " I will try to open it with code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " So that the folder is open in our VS code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 88.0,
+            "end": 90.0,
+            "text": " After doing this, I will do the same"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 90.0,
+            "end": 94.0,
+            "text": " Which we always do from index.html, main.css"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 94.0,
+            "end": 96.0,
+            "text": " Or style.css and with that"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " Scrib.js"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " These are the three files we usually make"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " If I write CSS, I will write here, and I will write here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 102.0,
+            "end": 104.0,
+            "text": " But for now, I will write here by writing here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 104.0,
+            "end": 106.0,
+            "text": " I will write here by writing here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " My bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " So I will write here in the code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 110.0,
+            "end": 112.0,
+            "text": " I will write here in the bookmark website"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 112.0,
+            "end": 114.0,
+            "text": " I will write here in the code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 114.0,
+            "end": 116.0,
+            "text": " So you will see all the titles"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 116.0,
+            "end": 118.0,
+            "text": " Now I will write here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " What happens with H1?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " You can write it in your web page"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " We talked about basic structure"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 124.0,
+            "end": 126.0,
+            "text": " We said that it is HTML"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 126.0,
+            "end": 128.0,
+            "text": " HTML is equal to EN"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " And it is the value of the attribute of EN"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " In English, this is the search engine"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " Or any link of this web page is available"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 136.0,
+            "end": 138.0,
+            "text": " So you can parse it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 138.0,
+            "end": 140.0,
+            "text": " You can also find out the browser"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " Which is your web page in English"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 142.0,
+            "end": 144.0,
+            "text": " Now here is the head"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 144.0,
+            "end": 146.0,
+            "text": " The head that is in the metadata"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " Which is the title"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " Which is the link of CSS"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " All this information is in the body"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " Now the tag is in the body"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 154.0,
+            "end": 156.0,
+            "text": " And I will write here in the tag"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " So if I write here in my bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 158.0,
+            "end": 160.0,
+            "text": " So if I write here in my bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 160.0,
+            "end": 162.0,
+            "text": " So we will write this H1 tag"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " And if I want to live here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 164.0,
+            "end": 166.0,
+            "text": " I will click here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " And I will open it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " And see this is showing my bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " Now why should I use H1"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " I wrote directly in my bookmark"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 174.0,
+            "end": 176.0,
+            "text": " Because I will tell the browser"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " This is my first heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 178.0,
+            "end": 180.0,
+            "text": " Now I will choose the first heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 180.0,
+            "end": 182.0,
+            "text": " In my bookmarks, I want to write two types of bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " One is main bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 184.0,
+            "end": 186.0,
+            "text": " And the second is bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 186.0,
+            "end": 188.0,
+            "text": " So I will use H2"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 188.0,
+            "end": 190.0,
+            "text": " So if you have used Microsoft Word"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 190.0,
+            "end": 192.0,
+            "text": " You will know what H1H2 is"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 192.0,
+            "end": 194.0,
+            "text": " But if you don't know"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " And then the second level is"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " H2"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " I will say"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " I will do the main bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " And I will do the main bookmarks"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 204.0,
+            "end": 208.0,
+            "text": " And I will do the Alt shift"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 208.0,
+            "end": 210.0,
+            "text": " And I will do the down arrow"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " I will do the screen cast mode"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 212.0,
+            "end": 214.0,
+            "text": " So I will do the Alt shift"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " And the down arrow is replicated"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " This is the shortcut"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " You should know that if you press Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " You will get a cursor"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " And you will get a cursor"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 224.0,
+            "end": 226.0,
+            "text": " As you know, I will click on the right hand"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 226.0,
+            "end": 228.0,
+            "text": " But press Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 228.0,
+            "end": 230.0,
+            "text": " If I click on the other hand"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 230.0,
+            "end": 232.0,
+            "text": " I will get a cursor"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " I want to do the bookmarks in the code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " So I will do the dash code"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " I will write something like this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 238.0,
+            "end": 240.0,
+            "text": " I have not written it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " Then press Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " And I will click on the Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " And I will get multiple cursor"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " And I will type whatever I want"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " And I will type whatever I want"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 250.0,
+            "end": 252.0,
+            "text": " And I will show you"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " Like this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 254.0,
+            "end": 256.0,
+            "text": " So I will delete some of the cursor"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 256.0,
+            "end": 258.0,
+            "text": " And you will see that it will be updated"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 258.0,
+            "end": 260.0,
+            "text": " So this is my main heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 260.0,
+            "end": 262.0,
+            "text": " This is my H2"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 262.0,
+            "end": 264.0,
+            "text": " From H1H2"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 264.0,
+            "end": 266.0,
+            "text": " From H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 266.0,
+            "end": 268.0,
+            "text": " You will see the main heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " And then you will have to add some heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " And so on"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 272.0,
+            "end": 274.0,
+            "text": " You can add H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " H6 more than it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " You will have to add H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " You will never have to add any heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " If you have to add any heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " And if you have to add H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " You can use it as much as you want"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " And then you will have to add H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " So you will have to add H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " And I will do the shift down"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 292.0,
+            "end": 294.0,
+            "text": " I will replicate it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " And I will click Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 296.0,
+            "end": 298.0,
+            "text": " And I will click Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " And I will show you all the shortcuts"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " So that you can get productivity"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 302.0,
+            "end": 304.0,
+            "text": " And I have put two cursor here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " And I will do the backspace"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 306.0,
+            "end": 308.0,
+            "text": " And I will click Alt"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 308.0,
+            "end": 310.0,
+            "text": " And I will click here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 310.0,
+            "end": 312.0,
+            "text": " And I will click here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " And then I will click here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " And then I will click here"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 316.0,
+            "end": 318.0,
+            "text": " And I will do the H6"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 318.0,
+            "end": 320.0,
+            "text": " Now I will write this using H1"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " So that you will know"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 322.0,
+            "end": 324.0,
+            "text": " I will write using it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 324.0,
+            "end": 326.0,
+            "text": " I will write using"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 326.0,
+            "end": 328.0,
+            "text": " And now I will click my work"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " And click 2, 3, 4, 5"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 330.0,
+            "end": 332.0,
+            "text": " And you will see some things"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 332.0,
+            "end": 334.0,
+            "text": " So you will know"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 334.0,
+            "end": 336.0,
+            "text": " That H1 is like this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 336.0,
+            "end": 338.0,
+            "text": " And H2 is like this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 338.0,
+            "end": 340.0,
+            "text": " And H6 is like this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 340.0,
+            "end": 342.0,
+            "text": " And what is the small thing"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " And it will end"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 344.0,
+            "end": 346.0,
+            "text": " And H6 is more than enough"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 346.0,
+            "end": 348.0,
+            "text": " So I will show you a practical demonstration"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 348.0,
+            "end": 350.0,
+            "text": " And I have a tutorial"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 350.0,
+            "end": 352.0,
+            "text": " So I have given the main heading"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " And then I have given the features"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 354.0,
+            "end": 356.0,
+            "text": " And then I have given the features"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 356.0,
+            "end": 358.0,
+            "text": " And then I have given the H1"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 358.0,
+            "end": 360.0,
+            "text": " And then I have given the H2"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 360.0,
+            "end": 362.0,
+            "text": " And then I have given the H3"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 362.0,
+            "end": 364.16,
+            "text": " And here there was this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 364.16,
+            "end": 366.0,
+            "text": " Hard Conf wireless"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 366.0,
+            "end": 366.84,
+            "text": " And here we have 9"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 366.84,
+            "end": 367.58,
+            "text": " Its 8"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 367.58,
+            "end": 369.02,
+            "text": " I did 9"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 369.04,
+            "end": 370.94,
+            "text": " And here we have this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 370.94,
+            "end": 371.06,
+            "text": " And 4"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 371.06,
+            "end": 372.34,
+            "text": " This is 9"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 372.34,
+            "end": 373.86,
+            "text": " By the way,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 373.86,
+            "end": 375.96,
+            "text": " the whole transition phase apart"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 376.58,
+            "end": 378.04,
+            "text": " And this is 8"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 378.08,
+            "end": 379.38,
+            "text": " So the difference is"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 379.38,
+            "end": 381.08,
+            "text": " Why out of age"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 381.08,
+            "end": 384.26,
+            "text": " And this Lul"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 384.26,
+            "end": 386.94,
+            "text": " And now the difference in the difference is"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 387.2,
+            "end": 389.2,
+            "text": " It will end"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 389.64,
+            "end": 391.88,
+            "text": " And in the top 4"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 451.88,
+            "end": 458.88,
+            "text": " You can drop the word on the view and drop it on the wall."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 458.88,
+            "end": 464.88,
+            "text": " Now you can see the lower-empsum dollar set is a dummy text."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 464.88,
+            "end": 466.88,
+            "text": " Why do we want dummy text?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 466.88,
+            "end": 468.88,
+            "text": " Because we want template to be made."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 468.88,
+            "end": 471.88,
+            "text": " And we want to fill that template with something."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 471.88,
+            "end": 476.88,
+            "text": " We want to make a website that shows the OEO rooms."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 476.88,
+            "end": 483.88,
+            "text": " Now I don't know the OEO members, but I have written the OEO rooms."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 483.88,
+            "end": 487.88,
+            "text": " I have written 7 rooms."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 487.88,
+            "end": 490.88,
+            "text": " I will give the OEO members the way they want to."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 490.88,
+            "end": 494.88,
+            "text": " So I will use the placeholder to fill that."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 494.88,
+            "end": 499.88,
+            "text": " My plan is to make a popular website that you can know how to work."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 499.88,
+            "end": 503.88,
+            "text": " You can use it as a website."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 504.88,
+            "end": 507.88,
+            "text": " Now we will look at the other things."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 507.88,
+            "end": 510.88,
+            "text": " You need to style it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 510.88,
+            "end": 516.88,
+            "text": " Now you can see the paragraph in the description box."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 516.88,
+            "end": 521.88,
+            "text": " I will enter the text box and write the lower-empsum as a template."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 521.88,
+            "end": 530.88,
+            "text": " If I write the lower-empsum as a template, it will be a lot of fun."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 531.88,
+            "end": 536.88,
+            "text": " Now I will write the lower-empsum as a template."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 536.88,
+            "end": 540.88,
+            "text": " I will write the lower-empsum as a template."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 540.88,
+            "end": 543.88,
+            "text": " I will write the lower-empsum as a template."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 543.88,
+            "end": 548.88,
+            "text": " I will also write the other things in my database."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 548.88,
+            "end": 551.88,
+            "text": " I will bring the text to my database."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 551.88,
+            "end": 554.88,
+            "text": " Many people asked me what the core is."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 555.88,
+            "end": 560.88,
+            "text": " I will make a job that I can do."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 560.88,
+            "end": 565.88,
+            "text": " I will make it as a job that you can do."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 565.88,
+            "end": 568.88,
+            "text": " I will talk about the attributes of this course."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 568.88,
+            "end": 573.88,
+            "text": " I have used the hashtag hashtag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 573.88,
+            "end": 575.88,
+            "text": " It is the language attribute."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 575.88,
+            "end": 579.88,
+            "text": " We have not used the attribute in the body."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 580.88,
+            "end": 583.88,
+            "text": " I can use a PMAX style attribute."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 583.88,
+            "end": 589.88,
+            "text": " I will read the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 589.88,
+            "end": 592.88,
+            "text": " It is the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 592.88,
+            "end": 594.88,
+            "text": " It is the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 594.88,
+            "end": 603.88,
+            "text": " If you add CSS, then you can add the background red."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 604.88,
+            "end": 606.88,
+            "text": " I will add the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 606.88,
+            "end": 609.88,
+            "text": " I will tell you that I will add the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 609.88,
+            "end": 612.88,
+            "text": " I will add the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 612.88,
+            "end": 614.88,
+            "text": " I can add the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 614.88,
+            "end": 617.88,
+            "text": " When you are using the online style, we use the same."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 617.88,
+            "end": 620.88,
+            "text": " We use the same as maintainability."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 620.88,
+            "end": 623.88,
+            "text": " We want to shift the bundle from a small browser."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 623.88,
+            "end": 626.88,
+            "text": " We want to optimize the website."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 626.88,
+            "end": 629.88,
+            "text": " We avoid all these things."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 629.88,
+            "end": 635.88,
+            "text": " We want to use the attribute of the tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 635.88,
+            "end": 639.88,
+            "text": " We can style the element through which we can style the element."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 639.88,
+            "end": 642.88,
+            "text": " We will read the attributes of the other ones."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 642.88,
+            "end": 646.88,
+            "text": " We will give an enhanced functionality."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 646.88,
+            "end": 648.88,
+            "text": " We have used the background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 648.88,
+            "end": 652.88,
+            "text": " We used the attribute of the tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 652.88,
+            "end": 657.88,
+            "text": " We used the attribute of the tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 657.88,
+            "end": 660.88,
+            "text": " We used the attribute of the tag."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 660.88,
+            "end": 663.88,
+            "text": " We used the link colon CSS."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 663.88,
+            "end": 666.88,
+            "text": " We used the link relic attribute."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 666.88,
+            "end": 671.88,
+            "text": " We can style the elements through this attribute."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 671.88,
+            "end": 675.88,
+            "text": " We can add background color."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 675.88,
+            "end": 679.88,
+            "text": " I will tell you what we need in body."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 679.88,
+            "end": 682.88,
+            "text": " Don't take tension."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 683.88,
+            "end": 685.88,
+            "text": " ImillAT and H \u043d\u0430\u0441\u0442\u043e\u044f\u0449us Persays Textures \u0438\u0437\u0432\u0435\u0441\u0442."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 685.88,
+            "end": 688.88,
+            "text": " I will show you what I will show you next."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 688.88,
+            "end": 691.88,
+            "text": " There is ve four among the staff part."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 691.88,
+            "end": 692.88,
+            "text": " We need unique functionality."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 692.88,
+            "end": 696.88,
+            "text": " The quality of VRD tag item is similar."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 696.88,
+            "end": 700.88,
+            "text": " There is no toolable toolable."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 700.88,
+            "end": 703.88,
+            "text": " It is\u043b\u0435\u0433 or youtubers etcetera."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 703.88,
+            "end": 706.88,
+            "text": " We can start using this corner."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 706.88,
+            "end": 709.88,
+            "text": " I will show you."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 709.88,
+            "end": 711.88,
+            "text": " I can open it in the description box"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 711.88,
+            "end": 713.88,
+            "text": " I will comment on this"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 713.88,
+            "end": 715.88,
+            "text": " This is not the style sheet"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 715.88,
+            "end": 717.88,
+            "text": " Which is very natural"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 717.88,
+            "end": 719.88,
+            "text": " This is the background color"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 719.88,
+            "end": 721.88,
+            "text": " This is the background color"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 721.88,
+            "end": 723.88,
+            "text": " This is very natural"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 723.88,
+            "end": 725.88,
+            "text": " I have made this style"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 725.88,
+            "end": 727.88,
+            "text": " Which is very natural"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 727.88,
+            "end": 731.88,
+            "text": " Now we are going to make a bookmark manager"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 731.88,
+            "end": 733.88,
+            "text": " Bookmark Manager.html"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 733.88,
+            "end": 735.88,
+            "text": " I am making this in a different way"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 735.88,
+            "end": 737.88,
+            "text": " Because I have told you"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 737.88,
+            "end": 741.88,
+            "text": " I am going to make a useful bookmark manager"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 741.88,
+            "end": 743.88,
+            "text": " I will show you"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 743.88,
+            "end": 745.88,
+            "text": " Bookmark Manager"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 745.88,
+            "end": 749.88,
+            "text": " Why are you making this bookmark manager in a chrome?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 749.88,
+            "end": 751.88,
+            "text": " This is the hand"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 751.88,
+            "end": 753.88,
+            "text": " This is my child"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 753.88,
+            "end": 755.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 755.88,
+            "end": 757.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 757.88,
+            "end": 759.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 759.88,
+            "end": 761.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 761.88,
+            "end": 763.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 763.88,
+            "end": 765.88,
+            "text": " This is the frame"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 795.88,
+            "end": 799.88,
+            "text": " I will tell you how to use this list"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 799.88,
+            "end": 803.88,
+            "text": " Google, I will write this to you"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 803.88,
+            "end": 807.88,
+            "text": " Open Google and I will use AnkerTech"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 807.88,
+            "end": 811.88,
+            "text": " I will enter this as an entry attribute"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 811.88,
+            "end": 815.88,
+            "text": " Click on the link on the left hand side"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 815.88,
+            "end": 817.88,
+            "text": " I will write href is equal to my name"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 817.88,
+            "end": 819.88,
+            "text": " https colon double slash www.google.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 819.88,
+            "end": 823.88,
+            "text": " Click on this address when you click on open google"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 823.88,
+            "end": 841.88,
+            "text": " Click on snappak on exhibition"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 841.88,
+            "end": 846.88,
+            "text": " I will click on it"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 846.88,
+            "end": 851.88,
+            "text": " My goal view from event to blog"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 851.88,
+            "end": 853.88,
+            "text": " If you have a visitor, then the color will change."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 853.88,
+            "end": 855.88,
+            "text": " So the color will change when you visit it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 855.88,
+            "end": 857.88,
+            "text": " I mean, it has been converted into a visited link."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 857.88,
+            "end": 859.88,
+            "text": " I know that I have visited it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 859.88,
+            "end": 861.88,
+            "text": " Now I will tell you one more thing."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 861.88,
+            "end": 864.88,
+            "text": " If we want to open this new tab,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 864.88,
+            "end": 866.88,
+            "text": " like I am clicking it on it, it is opening in the same tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 866.88,
+            "end": 869.88,
+            "text": " If you want to open it in the new tab, then you can open it in two ways."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 869.88,
+            "end": 871.88,
+            "text": " Or you can use the mouse wheel."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 871.88,
+            "end": 874.88,
+            "text": " This mouse can also be clicked."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 874.88,
+            "end": 878.88,
+            "text": " In the second way, I will tell you that if you want to use a click,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 878.88,
+            "end": 880.88,
+            "text": " then you can use it in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 880.88,
+            "end": 882.88,
+            "text": " You can also use it in the next tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 882.88,
+            "end": 884.88,
+            "text": " You can also use it in the next tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 884.88,
+            "end": 886.88,
+            "text": " The target is equal to underscore blank."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 886.88,
+            "end": 888.88,
+            "text": " If you want to give suggestions to VS Code,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 888.88,
+            "end": 890.88,
+            "text": " then I have clicked two Enter Marks."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 890.88,
+            "end": 892.88,
+            "text": " There are some other types of notes."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 892.88,
+            "end": 894.88,
+            "text": " So what was the quality of VS Code?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 894.88,
+            "end": 896.88,
+            "text": " I mean, the quality of VS Code is equal to the quality of VS Code."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 896.88,
+            "end": 899.88,
+            "text": " But if you want to use the quality of VS Code,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 899.88,
+            "end": 902.88,
+            "text": " then the target is equal to underscore blank."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 902.88,
+            "end": 904.88,
+            "text": " You have to type the entire blank."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 904.88,
+            "end": 906.88,
+            "text": " But if you want to write it in some way, then what will you do?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 906.88,
+            "end": 908.88,
+            "text": " I will click on the mouse wheel."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 908.88,
+            "end": 910.88,
+            "text": " I will click on the mouse wheel."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 910.88,
+            "end": 912.88,
+            "text": " I will click on the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 912.88,
+            "end": 914.88,
+            "text": " I can open it in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 914.88,
+            "end": 916.88,
+            "text": " I have written a simple open google."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 916.88,
+            "end": 920.88,
+            "text": " If you want, then you can use the new one in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 920.88,
+            "end": 922.88,
+            "text": " You can use it in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 922.88,
+            "end": 926.88,
+            "text": " Okay, I will write the open Facebook."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 926.88,
+            "end": 928.88,
+            "text": " You can see the new tab here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 928.88,
+            "end": 930.88,
+            "text": " Facebook.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 930.88,
+            "end": 932.88,
+            "text": " I will write it in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 932.88,
+            "end": 934.88,
+            "text": " I will put the code in the new tab."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 934.88,
+            "end": 936.88,
+            "text": " And then I will put it here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 936.88,
+            "end": 938.88,
+            "text": " Let's see which one is the same."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 938.88,
+            "end": 940.88,
+            "text": " YouTube.com"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 940.88,
+            "end": 942.88,
+            "text": " Let's see how it is."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 942.88,
+            "end": 944.88,
+            "text": " You can see that it is coming in one line."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 944.88,
+            "end": 948.88,
+            "text": " If you want it to not in one line, then what will you do?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 948.88,
+            "end": 950.88,
+            "text": " You will put it in your paragraph."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 950.88,
+            "end": 952.88,
+            "text": " It is a dirty way."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 952.88,
+            "end": 954.88,
+            "text": " I am saying it in a dirty way."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 954.88,
+            "end": 956.88,
+            "text": " I will tell you ahead."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 956.88,
+            "end": 958.88,
+            "text": " But close the paragraph."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 958.88,
+            "end": 960.88,
+            "text": " If you want, then I will shift the button."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 960.88,
+            "end": 962.88,
+            "text": " I will shift the button."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 962.88,
+            "end": 964.88,
+            "text": " I will X the control."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 964.88,
+            "end": 966.88,
+            "text": " I will shift the button."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 966.88,
+            "end": 968.88,
+            "text": " I will shift the button."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 968.88,
+            "end": 970.88,
+            "text": " I will shift the button."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 970.88,
+            "end": 972.88,
+            "text": " I have used it very short."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 972.88,
+            "end": 974.88,
+            "text": " You will see that."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 974.88,
+            "end": 976.88,
+            "text": " If you don't want to do it, then you can use it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 976.88,
+            "end": 980.88,
+            "text": " But I have used it in the VSCode functionality."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 980.88,
+            "end": 982.88,
+            "text": " I have used it in multiple cuts."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 982.88,
+            "end": 984.88,
+            "text": " I have used it in multiple cuts."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 984.88,
+            "end": 986.88,
+            "text": " This is not a good way to use the paragraph."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 986.88,
+            "end": 988.88,
+            "text": " We don't even get lists."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 988.88,
+            "end": 990.88,
+            "text": " We don't get lists."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 990.88,
+            "end": 992.88,
+            "text": " We are using paragraph."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 992.88,
+            "end": 994.88,
+            "text": " We will do this work."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 994.88,
+            "end": 996.88,
+            "text": " We have not visited the page."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 996.88,
+            "end": 998.88,
+            "text": " We have visited the page."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 998.88,
+            "end": 1000.88,
+            "text": " We have visited the page."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1000.88,
+            "end": 1002.88,
+            "text": " Now you will see the primary bookmarks."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1002.88,
+            "end": 1004.88,
+            "text": " Which are the second bookmarks?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1004.88,
+            "end": 1006.88,
+            "text": " We have two second bookmarks."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1006.88,
+            "end": 1008.88,
+            "text": " The second bookmarks are for you."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1008.88,
+            "end": 1010.88,
+            "text": " You will see the VKPD.com."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1010.88,
+            "end": 1012.88,
+            "text": " We have come here."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1012.88,
+            "end": 1014.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1014.88,
+            "end": 1016.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1016.88,
+            "end": 1018.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1018.88,
+            "end": 1020.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1020.88,
+            "end": 1022.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1022.88,
+            "end": 1024.88,
+            "text": " We will write the stack overflow."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1024.88,
+            "end": 1026.88,
+            "text": " You can make a bookmark manager."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1026.88,
+            "end": 1028.88,
+            "text": " You can make a bookmark manager better."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1028.88,
+            "end": 1030.88,
+            "text": " If you are learning from CSS styling,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1030.88,
+            "end": 1032.88,
+            "text": " you will see the next one."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1032.88,
+            "end": 1034.88,
+            "text": " Don't worry."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1034.88,
+            "end": 1036.88,
+            "text": " It is very important."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1036.88,
+            "end": 1038.88,
+            "text": " We will do the styling in time."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1038.88,
+            "end": 1040.88,
+            "text": " We will talk about the next one."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1040.88,
+            "end": 1042.88,
+            "text": " You will see the bookmark."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1042.88,
+            "end": 1044.88,
+            "text": " The code is your title."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1044.88,
+            "end": 1046.88,
+            "text": " I will write it in H1."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1046.88,
+            "end": 1048.88,
+            "text": " We will write the same."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1048.88,
+            "end": 1050.88,
+            "text": " We will write the same."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1050.88,
+            "end": 1052.88,
+            "text": " We will write the same."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1052.88,
+            "end": 1054.88,
+            "text": " You can make a bookmark manager."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1054.88,
+            "end": 1056.88,
+            "text": " You can use it in actual use."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1056.88,
+            "end": 1058.88,
+            "text": " If you save it in some way,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1058.88,
+            "end": 1060.88,
+            "text": " you will get the bookmark manager."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1060.88,
+            "end": 1062.88,
+            "text": " You can put it on your desktop."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1062.88,
+            "end": 1064.88,
+            "text": " When you open a website,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1064.88,
+            "end": 1066.88,
+            "text": " you will simply double click."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1066.88,
+            "end": 1068.88,
+            "text": " If you double click and open it on VSCode,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1068.88,
+            "end": 1070.88,
+            "text": " you will have to open it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1070.88,
+            "end": 1072.88,
+            "text": " You will have to open it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1072.88,
+            "end": 1076.24,
+            "text": " You will have to Google Chrome"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1076.24,
+            "end": 1078.24,
+            "text": " toenzure it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1078.24,
+            "end": 1080.24,
+            "text": " You will always double click."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1080.24,
+            "end": 1082.24,
+            "text": " You will always double click."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1082.24,
+            "end": 1084.24,
+            "text": " You will always double click."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1084.24,
+            "end": 1086.24,
+            "text": " You will open it from Google Chrome."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1086.24,
+            "end": 1088.24,
+            "text": " You should always use Google Chrome."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1088.24,
+            "end": 1090.24,
+            "text": " It is!"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1090.24,
+            "end": 1093.72,
+            "text": " You will receive multiple requests to\u3059"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1093.72,
+            "end": 1096.72,
+            "text": " when you receive word of email."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1096.72,
+            "end": 1100.22,
+            "text": " They will do it by clicking of Google Chrome."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1100.22,
+            "end": 1102.22,
+            "text": " I will try to improve the cost of this product."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1102.22,
+            "end": 1105.22,
+            "text": " Many people are saying that how the price is going to be reduced,"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1105.22,
+            "end": 1108.22,
+            "text": " and I will find the ways to make more money."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1108.22,
+            "end": 1113.22,
+            "text": " But the thing is that this cost is the biggest cost of development."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1113.22,
+            "end": 1115.22,
+            "text": " I will add everything in this."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1115.22,
+            "end": 1118.22,
+            "text": " And I will give you a little less time to improve it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1118.22,
+            "end": 1121.22,
+            "text": " I have been very late to get a lot of companies from AdTech."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1121.22,
+            "end": 1123.22,
+            "text": " They say that they launch the paid course on our platform."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1123.22,
+            "end": 1125.22,
+            "text": " We have not been able to get a lot of companies from the market."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1125.22,
+            "end": 1128.22,
+            "text": " They have been saying that they launch the paid course."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1128.22,
+            "end": 1130.22,
+            "text": " Why are you doing this? You will regret your decision."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1130.22,
+            "end": 1132.22,
+            "text": " But hopefully I will not regret my decision."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1132.22,
+            "end": 1134.22,
+            "text": " To make this course a lot."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1134.22,
+            "end": 1136.22,
+            "text": " I will earn money from the other way."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1136.22,
+            "end": 1138.22,
+            "text": " And I will teach you this course too."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1138.22,
+            "end": 1141.22,
+            "text": " How can you earn money more than how you can get through the web development?"
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1141.22,
+            "end": 1144.22,
+            "text": " With that said, I will add the description in it."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1144.22,
+            "end": 1147.22,
+            "text": " You can take it from the repository of its source code."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1147.22,
+            "end": 1150.22,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1150.22,
+            "end": 1152.22,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Like and share it with your friends In this video, we will make a small project Which will be a bookmark website This bookmark website will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly Write it down in the comment section below Sigma Batch OP Let's roll the intro So guys, as you can see, I have already made my computer screen And if you haven't even done the playlist access yet, then you can access it The other thing I want to tell you guys is that you will go to the post-itre on www.gitab.com So you will get the GITAB REAP of Sigma WebDoc course Now I have made all the videos of it and made a fullter And made a completely different filter So you will get access from the source code So that you can get the source code In the description, I will put the video of it So there is no problem with the video Now we will make a basic website today But it will be very important for us Because it will be our first useful website So I will not take much time to make a new folder in Sigma WebDoc And I will keep the video for it because it is our fourth video So I will make a video with the name of the name I will try to open it with code So that the folder is open in our VS code After doing this, I will do the same Which we always do from index.html, main.css Or style.css and with that Scrib.js These are the three files we usually make If I write CSS, I will write here, and I will write here But for now, I will write here by writing here I will write here by writing here My bookmarks So I will write here in the code I will write here in the bookmark website I will write here in the code So you will see all the titles Now I will write here What happens with H1? You can write it in your web page We talked about basic structure We said that it is HTML HTML is equal to EN And it is the value of the attribute of EN In English, this is the search engine Or any link of this web page is available So you can parse it You can also find out the browser Which is your web page in English Now here is the head The head that is in the metadata Which is the title Which is the link of CSS All this information is in the body Now the tag is in the body And I will write here in the tag So if I write here in my bookmarks So if I write here in my bookmarks So we will write this H1 tag And if I want to live here I will click here And I will open it And see this is showing my bookmarks Now why should I use H1 I wrote directly in my bookmark Because I will tell the browser This is my first heading Now I will choose the first heading In my bookmarks, I want to write two types of bookmarks One is main bookmarks And the second is bookmarks So I will use H2 So if you have used Microsoft Word You will know what H1H2 is But if you don't know And then the second level is H2 I will say I will do the main bookmarks And I will do the main bookmarks And I will do the Alt shift And I will do the down arrow I will do the screen cast mode So I will do the Alt shift And the down arrow is replicated This is the shortcut You should know that if you press Alt You will get a cursor And you will get a cursor As you know, I will click on the right hand But press Alt If I click on the other hand I will get a cursor I want to do the bookmarks in the code So I will do the dash code I will write something like this I have not written it Then press Alt And I will click on the Alt And I will get multiple cursor And I will type whatever I want And I will type whatever I want And I will show you Like this So I will delete some of the cursor And you will see that it will be updated So this is my main heading This is my H2 From H1H2 From H6 You will see the main heading And then you will have to add some heading And so on You can add H6 H6 more than it You will have to add H6 You will never have to add any heading If you have to add any heading And if you have to add H6 You can use it as much as you want And then you will have to add H6 So you will have to add H6 And I will do the shift down I will replicate it And I will click Alt And I will click Alt And I will show you all the shortcuts So that you can get productivity And I have put two cursor here And I will do the backspace And I will click Alt And I will click here And I will click here And then I will click here And then I will click here And I will do the H6 Now I will write this using H1 So that you will know I will write using it I will write using And now I will click my work And click 2, 3, 4, 5 And you will see some things So you will know That H1 is like this And H2 is like this And H6 is like this And what is the small thing And it will end And H6 is more than enough So I will show you a practical demonstration And I have a tutorial So I have given the main heading And then I have given the features And then I have given the features And then I have given the H1 And then I have given the H2 And then I have given the H3 And here there was this Hard Conf wireless And here we have 9 Its 8 I did 9 And here we have this And 4 This is 9 By the way, the whole transition phase apart And this is 8 So the difference is Why out of age And this Lul And now the difference in the difference is It will end And in the top 4 You can drop the word on the view and drop it on the wall. Now you can see the lower-empsum dollar set is a dummy text. Why do we want dummy text? Because we want template to be made. And we want to fill that template with something. We want to make a website that shows the OEO rooms. Now I don't know the OEO members, but I have written the OEO rooms. I have written 7 rooms. I will give the OEO members the way they want to. So I will use the placeholder to fill that. My plan is to make a popular website that you can know how to work. You can use it as a website. Now we will look at the other things. You need to style it. Now you can see the paragraph in the description box. I will enter the text box and write the lower-empsum as a template. If I write the lower-empsum as a template, it will be a lot of fun. Now I will write the lower-empsum as a template. I will write the lower-empsum as a template. I will write the lower-empsum as a template. I will also write the other things in my database. I will bring the text to my database. Many people asked me what the core is. I will make a job that I can do. I will make it as a job that you can do. I will talk about the attributes of this course. I have used the hashtag hashtag. It is the language attribute. We have not used the attribute in the body. I can use a PMAX style attribute. I will read the background color. It is the background color. It is the background color. If you add CSS, then you can add the background red. I will add the background color. I will tell you that I will add the background color. I will add the background color. I can add the background color. When you are using the online style, we use the same. We use the same as maintainability. We want to shift the bundle from a small browser. We want to optimize the website. We avoid all these things. We want to use the attribute of the tag. We can style the element through which we can style the element. We will read the attributes of the other ones. We will give an enhanced functionality. We have used the background color. We used the attribute of the tag. We used the attribute of the tag. We used the attribute of the tag. We used the link colon CSS. We used the link relic attribute. We can style the elements through this attribute. We can add background color. I will tell you what we need in body. Don't take tension. ImillAT and H \u043d\u0430\u0441\u0442\u043e\u044f\u0449us Persays Textures \u0438\u0437\u0432\u0435\u0441\u0442. I will show you what I will show you next. There is ve four among the staff part. We need unique functionality. The quality of VRD tag item is similar. There is no toolable toolable. It is\u043b\u0435\u0433 or youtubers etcetera. We can start using this corner. I will show you. I can open it in the description box I will comment on this This is not the style sheet Which is very natural This is the background color This is the background color This is very natural I have made this style Which is very natural Now we are going to make a bookmark manager Bookmark Manager.html I am making this in a different way Because I have told you I am going to make a useful bookmark manager I will show you Bookmark Manager Why are you making this bookmark manager in a chrome? This is the hand This is my child This is the frame This is the frame This is the frame This is the frame This is the frame This is the frame I will tell you how to use this list Google, I will write this to you Open Google and I will use AnkerTech I will enter this as an entry attribute Click on the link on the left hand side I will write href is equal to my name https colon double slash www.google.com Click on this address when you click on open google Click on snappak on exhibition I will click on it My goal view from event to blog If you have a visitor, then the color will change. So the color will change when you visit it. I mean, it has been converted into a visited link. I know that I have visited it. Now I will tell you one more thing. If we want to open this new tab, like I am clicking it on it, it is opening in the same tab. If you want to open it in the new tab, then you can open it in two ways. Or you can use the mouse wheel. This mouse can also be clicked. In the second way, I will tell you that if you want to use a click, then you can use it in the new tab. You can also use it in the next tab. You can also use it in the next tab. The target is equal to underscore blank. If you want to give suggestions to VS Code, then I have clicked two Enter Marks. There are some other types of notes. So what was the quality of VS Code? I mean, the quality of VS Code is equal to the quality of VS Code. But if you want to use the quality of VS Code, then the target is equal to underscore blank. You have to type the entire blank. But if you want to write it in some way, then what will you do? I will click on the mouse wheel. I will click on the mouse wheel. I will click on the new tab. I can open it in the new tab. I have written a simple open google. If you want, then you can use the new one in the new tab. You can use it in the new tab. Okay, I will write the open Facebook. You can see the new tab here. Facebook.com I will write it in the new tab. I will put the code in the new tab. And then I will put it here. Let's see which one is the same. YouTube.com Let's see how it is. You can see that it is coming in one line. If you want it to not in one line, then what will you do? You will put it in your paragraph. It is a dirty way. I am saying it in a dirty way. I will tell you ahead. But close the paragraph. If you want, then I will shift the button. I will shift the button. I will X the control. I will shift the button. I will shift the button. I will shift the button. I have used it very short. You will see that. If you don't want to do it, then you can use it. But I have used it in the VSCode functionality. I have used it in multiple cuts. I have used it in multiple cuts. This is not a good way to use the paragraph. We don't even get lists. We don't get lists. We are using paragraph. We will do this work. We have not visited the page. We have visited the page. We have visited the page. Now you will see the primary bookmarks. Which are the second bookmarks? We have two second bookmarks. The second bookmarks are for you. You will see the VKPD.com. We have come here. We will write the stack overflow. We will write the stack overflow. We will write the stack overflow. We will write the stack overflow. We will write the stack overflow. We will write the stack overflow. You can make a bookmark manager. You can make a bookmark manager better. If you are learning from CSS styling, you will see the next one. Don't worry. It is very important. We will do the styling in time. We will talk about the next one. You will see the bookmark. The code is your title. I will write it in H1. We will write the same. We will write the same. We will write the same. You can make a bookmark manager. You can use it in actual use. If you save it in some way, you will get the bookmark manager. You can put it on your desktop. When you open a website, you will simply double click. If you double click and open it on VSCode, you will have to open it. You will have to open it. You will have to Google Chrome toenzure it. You will always double click. You will always double click. You will always double click. You will open it from Google Chrome. You should always use Google Chrome. It is! You will receive multiple requests to\u3059 when you receive word of email. They will do it by clicking of Google Chrome. I will try to improve the cost of this product. Many people are saying that how the price is going to be reduced, and I will find the ways to make more money. But the thing is that this cost is the biggest cost of development. I will add everything in this. And I will give you a little less time to improve it. I have been very late to get a lot of companies from AdTech. They say that they launch the paid course on our platform. We have not been able to get a lot of companies from the market. They have been saying that they launch the paid course. Why are you doing this? You will regret your decision. But hopefully I will not regret my decision. To make this course a lot. I will earn money from the other way. And I will teach you this course too. How can you earn money more than how you can get through the web development? With that said, I will add the description in it. You can take it from the repository of its source code. Thank you so much for watching this video. And I will see you next time."
+}

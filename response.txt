@@ -1,0 +1,7 @@
+I'd be happy to help you with your Sigma Wed development course.
+
+So, you're asking where the concept of "Box Model" is taught in our CSS module? Well, I've checked through the video subtitles for Video #18, and it looks like the Box Model is discussed starting from around 13 seconds into the video. They start by introducing the concept of the box model in CSS, which explains how an element on a web page is structured.
+
+As they progress, you'll see them discussing how the box model includes margin, padding, and borders, and even providing examples of how these elements interact with each other.
+
+If you'd like to dive deeper into this topic, I recommend watching Video #18 from start time 13 seconds onwards. That should give you a good understanding of where the Box Model is taught in our course!
