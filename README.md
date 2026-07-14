@@ -1,6 +1,10 @@
 # RAG-Based-AI-Teaching-Assistant
 A Retrieval-Augmented Generation (RAG) based AI teaching assistant for the Sigma Web Development Course. It uses Whisper for transcription, custom chunking, BGE-M3 embeddings, cosine similarity for retrieval, and Llama 3.2 via Ollama to deliver accurate, context-aware answers with relevant video timestamps.
 
+<img width="1920" height="1080" alt="Screenshot (673)" src="https://github.com/user-attachments/assets/6a62ba70-cdea-4732-8a43-e0362e6a62b3" />
+<img width="1920" height="1080" alt="Screenshot (672)" src="https://github.com/user-attachments/assets/5b43c053-340a-4c5f-85cf-f32cde28645b" />
+
+
 # Project Workflow
 
 This document explains the end-to-end workflow of the **RAG-Based AI Teaching Assistant** project, from processing lecture videos to generating intelligent answers.
